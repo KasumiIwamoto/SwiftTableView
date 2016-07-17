@@ -12,6 +12,7 @@
 		4D94517C1D3B456D00065AFD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D94517A1D3B456D00065AFD /* Main.storyboard */; };
 		4D94517E1D3B456D00065AFD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D94517D1D3B456D00065AFD /* Assets.xcassets */; };
 		4D9451811D3B456D00065AFD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D94517F1D3B456D00065AFD /* LaunchScreen.storyboard */; };
+		4D9451891D3B459B00065AFD /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D9451881D3B459B00065AFD /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		4D94517D1D3B456D00065AFD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4D9451801D3B456D00065AFD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4D9451821D3B456D00065AFD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4D9451881D3B459B00065AFD /* ViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				4D9451761D3B456D00065AFD /* AppDelegate.swift */,
+				4D9451881D3B459B00065AFD /* ViewController2.swift */,
 				4D9451781D3B456D00065AFD /* ViewController.swift */,
 				4D94517A1D3B456D00065AFD /* Main.storyboard */,
 				4D94517D1D3B456D00065AFD /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			files = (
 				4D9451791D3B456D00065AFD /* ViewController.swift in Sources */,
 				4D9451771D3B456D00065AFD /* AppDelegate.swift in Sources */,
+				4D9451891D3B459B00065AFD /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
